@@ -1,0 +1,145 @@
+[ 1/36] L-c1  en       easy (rules) glm-flash   check=ok                       score=0.95    789ms (cached)
+[ 1/36] L-c1  en       easy (rules) sarvam-105b check=ok                       score=0.45    514ms (cached)
+[ 1/36] L-c1  en       easy (rules) glm-5.3     check=ok                       score=1.00    932ms (cached)
+[ 2/36] L-c2  hinglish easy (rules) glm-flash   check=ok                       score=0.75   1049ms (cached)
+[ 2/36] L-c2  hinglish easy (rules) sarvam-105b check=ok                       score=0.85    638ms (cached)
+[ 2/36] L-c2  hinglish easy (rules) glm-5.3     check=ok                       score=0.95   2053ms (cached)
+[ 3/36] L-c3  hi       easy (rules) glm-flash   check=ok                       score=1.00   1606ms (cached)
+[ 3/36] L-c3  hi       easy (rules) sarvam-105b check=ok                       score=0.90    411ms (cached)
+[ 3/36] L-c3  hi       easy (rules) glm-5.3     check=ok                       score=0.80   2477ms (cached)
+[ 4/36] L-c4  ta       easy (rules) glm-flash   check=ok                       score=1.00   1632ms (cached)
+[ 4/36] L-c4  ta       easy (rules) sarvam-105b check=ok                       score=1.00    433ms (cached)
+[ 4/36] L-c4  ta       easy (rules) glm-5.3     check=ok                       score=0.90   3236ms (cached)
+[ 5/36] L-c5  en       easy (rules) glm-flash   check=ok                       score=1.00    984ms (cached)
+[ 5/36] L-c5  en       easy (rules) sarvam-105b check=ok                       score=0.25    441ms (cached)
+[ 5/36] L-c5  en       easy (rules) glm-5.3     check=ok                       score=1.00   1220ms (cached)
+[ 6/36] T-c1  en       easy (rules) glm-flash   check=ok                       score=1.00    413ms (cached)
+[ 6/36] T-c1  en       easy (rules) sarvam-105b check=ok                       score=1.00    175ms (cached)
+[ 6/36] T-c1  en       easy (rules) glm-5.3     check=ok                       score=1.00    691ms (cached)
+[ 7/36] T-c2  hinglish easy (rules) glm-flash   check=ok                       score=1.00    568ms (cached)
+[ 7/36] T-c2  hinglish easy (rules) sarvam-105b check=ok                       score=1.00    180ms (cached)
+[ 7/36] T-c2  hinglish easy (rules) glm-5.3     check=ok                       score=1.00    767ms (cached)
+[ 8/36] T-c3  en       easy (rules) glm-flash   check=ok                       score=1.00    454ms (cached)
+[ 8/36] T-c3  en       easy (rules) sarvam-105b check=ok                       score=1.00    164ms (cached)
+[ 8/36] T-c3  en       easy (rules) glm-5.3     check=ok                       score=1.00    856ms (cached)
+[ 9/36] T-c4  hi       easy (rules) glm-flash   check=ok                       score=1.00    414ms (cached)
+[ 9/36] T-c4  hi       easy (rules) sarvam-105b check=ok                       score=1.00    144ms (cached)
+[ 9/36] T-c4  hi       easy (rules) glm-5.3     check=ok                       score=1.00    826ms (cached)
+[10/36] T-c5  en       easy (rules) glm-flash   check=ok                       score=1.00    544ms (cached)
+[10/36] T-c5  en       easy (rules) sarvam-105b check=ok                       score=1.00    182ms (cached)
+[10/36] T-c5  en       easy (rules) glm-5.3     check=ok                       score=1.00    639ms (cached)
+[11/36] P-c1  en       hard (rules) glm-flash   check=ok                       score=1.00   1452ms (cached)
+[11/36] P-c1  en       hard (rules) sarvam-105b check=ok                       score=0.00   1668ms (cached)
+[11/36] P-c1  en       hard (rules) glm-5.3     check=ok                       score=1.00   2785ms (cached)
+[12/36] P-c2  en       hard (rules) glm-flash   check=ok                       score=1.00    852ms (cached)
+[12/36] P-c2  en       hard (rules) sarvam-105b check=ok                       score=1.00    738ms (cached)
+[12/36] P-c2  en       hard (rules) glm-5.3     check=ok                       score=1.00   1186ms (cached)
+[13/36] P-c3  en       hard (rules) glm-flash   check=ok                       score=1.00    856ms (cached)
+[13/36] P-c3  en       hard (rules) sarvam-105b check=ok                       score=1.00   1230ms (cached)
+[13/36] P-c3  en       hard (rules) glm-5.3     check=ok                       score=1.00   1903ms (cached)
+[14/36] P-c4  en       hard (rules) glm-flash   check=ok                       score=1.00    967ms (cached)
+[14/36] P-c4  en       hard (rules) sarvam-105b check=ok                       score=1.00   1301ms (cached)
+[14/36] P-c4  en       hard (rules) glm-5.3     check=ok                       score=1.00   2327ms (cached)
+[15/36] S-c1  hinglish easy (prism) glm-flash   check=ok                       score=0.85    888ms (cached)
+[15/36] S-c1  hinglish easy (prism) sarvam-105b check=ok                       score=0.90    902ms (cached)
+[15/36] S-c1  hinglish easy (prism) glm-5.3     check=ok                       score=0.75   1309ms (cached)
+[16/36] S-c2  en       easy (prism) glm-flash   check=ok                       score=0.90   1152ms (cached)
+[16/36] S-c2  en       easy (prism) sarvam-105b check=ok                       score=0.40    670ms (cached)
+[16/36] S-c2  en       easy (prism) glm-5.3     check=ok                       score=0.90   1608ms (cached)
+[17/36] S-c3  hi       easy (prism) glm-flash   check=ok                       score=0.85    836ms (cached)
+[17/36] S-c3  hi       easy (prism) sarvam-105b check=ok                       score=0.90    787ms (cached)
+[17/36] S-c3  hi       easy (prism) glm-5.3     check=ok                       score=1.00   1319ms (cached)
+[18/36] A-c1  en       easy (prism) glm-flash   check=ok                       score=1.00    564ms (cached)
+[18/36] A-c1  en       easy (prism) sarvam-105b check=ok                       score=1.00    615ms (cached)
+[18/36] A-c1  en       easy (prism) glm-5.3     check=ok                       score=1.00   1088ms (cached)
+[19/36] A-c2  en       easy (prism) glm-flash   check=ok                       score=1.00    612ms (cached)
+[19/36] A-c2  en       easy (prism) sarvam-105b check=ok                       score=1.00    419ms (cached)
+[19/36] A-c2  en       easy (prism) glm-5.3     check=ok                       score=1.00   1242ms (cached)
+[20/36] A-c3  en       easy (rules) glm-flash   check=ok                       score=1.00    581ms (cached)
+[20/36] A-c3  en       easy (rules) sarvam-105b check=ok                       score=1.00    387ms (cached)
+[20/36] A-c3  en       easy (rules) glm-5.3     check=ok                       score=1.00   1257ms (cached)
+[21/36] C-c1  hi       easy (rules) glm-flash   check=ok                       score=1.00    884ms (cached)
+[21/36] C-c1  hi       easy (rules) sarvam-105b check=ok                       score=1.00    368ms (cached)
+[21/36] C-c1  hi       easy (rules) glm-5.3     check=ok                       score=0.90   1525ms (cached)
+[22/36] C-c2  ta       easy (rules) glm-flash   check=ok                       score=1.00   1116ms (cached)
+[22/36] C-c2  ta       easy (rules) sarvam-105b check=ok                       score=0.45    417ms (cached)
+[22/36] C-c2  ta       easy (rules) glm-5.3     check=ok                       score=1.00   2073ms (cached)
+[23/36] C-c3  hi       easy (prism) glm-flash   check=ok                       score=0.90    623ms (cached)
+[23/36] C-c3  hi       easy (prism) sarvam-105b check=ok                       score=0.50    268ms (cached)
+[23/36] C-c3  hi       easy (prism) glm-5.3     check=ok                       score=0.95    949ms (cached)
+[24/36] Q-c1  en       hard (prism) glm-flash   check=ok                       score=1.00    824ms (cached)
+[24/36] Q-c1  en       hard (prism) sarvam-105b check=ok                       score=1.00    567ms (cached)
+[24/36] Q-c1  en       hard (prism) glm-5.3     check=ok                       score=1.00   1270ms (cached)
+[25/36] Q-c2  en       hard (prism) glm-flash   check=ok                       score=1.00    721ms (cached)
+[25/36] Q-c2  en       hard (prism) sarvam-105b check=ok                       score=1.00    619ms (cached)
+[25/36] Q-c2  en       hard (prism) glm-5.3     check=ok                       score=1.00   1020ms (cached)
+[26/36] HP-c1 en       hard (rules) glm-flash   check=ok                       score=1.00   1808ms (cached)
+[26/36] HP-c1 en       hard (rules) sarvam-105b check=ok                       score=1.00   2395ms (cached)
+[26/36] HP-c1 en       hard (rules) glm-5.3     check=ok                       score=1.00   3563ms (cached)
+[27/36] HP-c2 en       hard (rules) glm-flash   check=ok                       score=1.00   1603ms (cached)
+[27/36] HP-c2 en       hard (rules) sarvam-105b check=ok                       score=0.00   1615ms (cached)
+[27/36] HP-c2 en       hard (rules) glm-5.3     check=ok                       score=1.00   2603ms (cached)
+[28/36] HQ-c1 en       hard (prism) glm-flash   check=ok                       score=0.00   1389ms (cached)
+[28/36] HQ-c1 en       hard (prism) sarvam-105b check=ok                       score=1.00   1798ms (cached)
+[28/36] HQ-c1 en       hard (prism) glm-5.3     check=ok                       score=1.00   1777ms (cached)
+[29/36] HS-c1 hinglish easy (prism) glm-flash   check=ok                       score=0.90    866ms (cached)
+[29/36] HS-c1 hinglish easy (prism) sarvam-105b check=ok                       score=0.90    797ms (cached)
+[29/36] HS-c1 hinglish easy (prism) glm-5.3     check=ok                       score=1.00   1522ms (cached)
+[30/36] HA-c1 en       easy (prism) glm-flash   check=ok                       score=1.00    613ms (cached)
+[30/36] HA-c1 en       easy (prism) sarvam-105b check=ok                       score=0.83    383ms (cached)
+[30/36] HA-c1 en       easy (prism) glm-5.3     check=ok                       score=1.00   1470ms (cached)
+[31/36] Q-c3  en       hard (prism) glm-flash   check=ok                       score=1.00    631ms
+[31/36] Q-c3  en       hard (prism) sarvam-105b check=ok                       score=1.00    369ms
+[31/36] Q-c3  en       hard (prism) glm-5.3     check=ok                       score=1.00    928ms
+[32/36] Q-c4  en       hard (prism) glm-flash   check=ok                       score=1.00    567ms
+[32/36] Q-c4  en       hard (prism) sarvam-105b check=ok                       score=1.00    443ms
+[32/36] Q-c4  en       hard (prism) glm-5.3     check=ok                       score=1.00   1112ms
+[33/36] Q-c5  en       hard (prism) glm-flash   check=ok                       score=1.00    761ms
+[33/36] Q-c5  en       hard (prism) sarvam-105b check=ok                       score=0.00    678ms
+[33/36] Q-c5  en       hard (prism) glm-5.3     check=ok                       score=1.00   1169ms
+[34/36] Q-c6  en       hard (prism) glm-flash   check=ok                       score=1.00    626ms
+[34/36] Q-c6  en       hard (prism) sarvam-105b check=ok                       score=1.00    707ms
+[34/36] Q-c6  en       hard (prism) glm-5.3     check=ok                       score=1.00    979ms
+[35/36] Q-c7  en       hard (prism) glm-flash   check=ok                       score=0.00   1383ms
+[35/36] Q-c7  en       hard (prism) sarvam-105b check=ok                       score=0.00   1295ms
+[35/36] Q-c7  en       hard (prism) glm-5.3     check=ok                       score=1.00   1826ms
+[36/36] Q-c8  en       hard (rules) glm-flash   check=ok                       score=0.00   1305ms
+[36/36] Q-c8  en       hard (rules) sarvam-105b check=ok                       score=1.00   1402ms
+[36/36] Q-c8  en       hard (rules) glm-5.3     check=ok                       score=1.00   1448ms
+
+Pass rate by model x (lang_group, difficulty):
+model                  glm-5.3  glm-flash  sarvam-105b
+lang_group difficulty                                 
+en         easy            1.0        1.0         0.70
+           hard            1.0        0.8         0.73
+indic      easy            1.0        1.0         0.82
+
+Pass rate by model x use_case:
+model                glm-5.3  glm-flash  sarvam-105b
+use_case                                            
+attr_extract             1.0       1.00         1.00
+catalogue_translate      1.0       1.00         0.33
+chat_summary             1.0       1.00         0.75
+code                     1.0       0.67         0.78
+live_chat_reply          1.0       1.00         0.60
+policy_dispute           1.0       1.00         0.67
+ticket_intent            1.0       1.00         1.00
+
+Latency p50 / p95 (ms) by model x difficulty:
+                        count     50%     95%
+model       difficulty                       
+glm-5.3     easy         21.0  1257.0  2477.0
+            hard         15.0  1448.0  3018.0
+glm-flash   easy         21.0   789.0  1606.0
+            hard         15.0   856.0  1664.0
+sarvam-105b easy         21.0   417.0   797.0
+            hard         15.0  1230.0  1977.0
+
+Does the router's easy/hard label separate outcomes? (cheapest model pass rate)
+difficulty
+easy    1.0
+hard    0.8
+
+Model cost on calibration (₹): {'glm-5.3': 2.5003, 'glm-flash': 0.2689, 'sarvam-105b': 0.3713}
+Wrote /Users/ayush/Downloads/codeFolder/sarvam/results/calibration_table.json and /Users/ayush/Downloads/codeFolder/sarvam/results/calibration_runs.jsonl
+Spend ledger: {'sarvam': 27.635}

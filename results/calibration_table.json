@@ -1,0 +1,173 @@
+{
+ "source": "calibrate.py on calibration split",
+ "n_prompts": 36,
+ "pass": {
+  "live_chat_reply|en|easy|glm-flash": {
+   "passes": 2,
+   "n": 2
+  },
+  "*|en|easy|glm-flash": {
+   "passes": 10,
+   "n": 10
+  },
+  "live_chat_reply|en|easy|sarvam-105b": {
+   "passes": 0,
+   "n": 2
+  },
+  "*|en|easy|sarvam-105b": {
+   "passes": 7,
+   "n": 10
+  },
+  "live_chat_reply|en|easy|glm-5.3": {
+   "passes": 2,
+   "n": 2
+  },
+  "*|en|easy|glm-5.3": {
+   "passes": 10,
+   "n": 10
+  },
+  "live_chat_reply|indic|easy|glm-flash": {
+   "passes": 3,
+   "n": 3
+  },
+  "*|indic|easy|glm-flash": {
+   "passes": 11,
+   "n": 11
+  },
+  "live_chat_reply|indic|easy|sarvam-105b": {
+   "passes": 3,
+   "n": 3
+  },
+  "*|indic|easy|sarvam-105b": {
+   "passes": 9,
+   "n": 11
+  },
+  "live_chat_reply|indic|easy|glm-5.3": {
+   "passes": 3,
+   "n": 3
+  },
+  "*|indic|easy|glm-5.3": {
+   "passes": 11,
+   "n": 11
+  },
+  "ticket_intent|en|easy|glm-flash": {
+   "passes": 3,
+   "n": 3
+  },
+  "ticket_intent|en|easy|sarvam-105b": {
+   "passes": 3,
+   "n": 3
+  },
+  "ticket_intent|en|easy|glm-5.3": {
+   "passes": 3,
+   "n": 3
+  },
+  "ticket_intent|indic|easy|glm-flash": {
+   "passes": 2,
+   "n": 2
+  },
+  "ticket_intent|indic|easy|sarvam-105b": {
+   "passes": 2,
+   "n": 2
+  },
+  "ticket_intent|indic|easy|glm-5.3": {
+   "passes": 2,
+   "n": 2
+  },
+  "policy_dispute|en|hard|glm-flash": {
+   "passes": 6,
+   "n": 6
+  },
+  "*|en|hard|glm-flash": {
+   "passes": 12,
+   "n": 15
+  },
+  "policy_dispute|en|hard|sarvam-105b": {
+   "passes": 4,
+   "n": 6
+  },
+  "*|en|hard|sarvam-105b": {
+   "passes": 11,
+   "n": 15
+  },
+  "policy_dispute|en|hard|glm-5.3": {
+   "passes": 6,
+   "n": 6
+  },
+  "*|en|hard|glm-5.3": {
+   "passes": 15,
+   "n": 15
+  },
+  "chat_summary|indic|easy|glm-flash": {
+   "passes": 3,
+   "n": 3
+  },
+  "chat_summary|indic|easy|sarvam-105b": {
+   "passes": 3,
+   "n": 3
+  },
+  "chat_summary|indic|easy|glm-5.3": {
+   "passes": 3,
+   "n": 3
+  },
+  "chat_summary|en|easy|glm-flash": {
+   "passes": 1,
+   "n": 1
+  },
+  "chat_summary|en|easy|sarvam-105b": {
+   "passes": 0,
+   "n": 1
+  },
+  "chat_summary|en|easy|glm-5.3": {
+   "passes": 1,
+   "n": 1
+  },
+  "attr_extract|en|easy|glm-flash": {
+   "passes": 4,
+   "n": 4
+  },
+  "attr_extract|en|easy|sarvam-105b": {
+   "passes": 4,
+   "n": 4
+  },
+  "attr_extract|en|easy|glm-5.3": {
+   "passes": 4,
+   "n": 4
+  },
+  "catalogue_translate|indic|easy|glm-flash": {
+   "passes": 3,
+   "n": 3
+  },
+  "catalogue_translate|indic|easy|sarvam-105b": {
+   "passes": 1,
+   "n": 3
+  },
+  "catalogue_translate|indic|easy|glm-5.3": {
+   "passes": 3,
+   "n": 3
+  },
+  "code|en|hard|glm-flash": {
+   "passes": 6,
+   "n": 9
+  },
+  "code|en|hard|sarvam-105b": {
+   "passes": 7,
+   "n": 9
+  },
+  "code|en|hard|glm-5.3": {
+   "passes": 9,
+   "n": 9
+  }
+ },
+ "p95_ms": {
+  "glm-5.3|easy": 2477.0,
+  "glm-5.3|hard": 3018.0,
+  "glm-flash|easy": 1606.0,
+  "glm-flash|hard": 1664.0,
+  "sarvam-105b|easy": 797.0,
+  "sarvam-105b|hard": 1977.0,
+  "glm-5.3": 2898.0,
+  "glm-flash": 1612.0,
+  "sarvam-105b": 1700.0
+ }
+}
